@@ -4,6 +4,6 @@ A new client "the owner of SereniCasa" recently contacted me with a request to d
 
 ## Approach
 
-I have attached the script that I utilized for this project, but I'd like to highlight a couple of points:
+I have attached the [script](https://github.com/Tori-Greg/Database-Design-with-MYSQL-Workbench/blob/main/SQL%20SCRIPT%20Database%20Design.sql) that I utilized for this project, but I'd like to highlight a couple of points:
 - Data Normalization: To achieve data normalization, I initially employed Excel and subsequently imported the normalized data into Workbench through the import wizard.
 - User Privileges and Constraints: The configuration of user privileges and constraints was handled through the MySQL interface rather than by writing custom code.
