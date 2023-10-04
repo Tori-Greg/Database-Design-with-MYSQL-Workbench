@@ -1,5 +1,5 @@
 # Database-Design-with-MYSQL-Workbench
-## Intro
+## Introduction
 A new client "the owner of SereniCasa" recently contacted me with a request to develop a comprehensive database from scratch. This database will be designed to encompass and manage data related to customers, purchase orders, and employees for their business.
 
 ## Approach
@@ -9,8 +9,12 @@ I have attached the [script](https://github.com/Tori-Greg/Database-Design-with-M
   
   ![](EERDiagram.JPG)
 
- - Constraints: To uphold data integrity and adhere to best practices, I implemented both null and unique constraints on specific columns within the dataset, and this was accomplished through the user-friendly interface provided by Workbench. The unique constraint was primarily employed on primary keys to prevent the duplication of values, while the null constraint was utilized to ensure that cells within our tables could not remain empty.
+ - Constraints: To uphold data integrity and adhere to best practices, I implemented both null and unique constraints on specific columns within the dataset, and this was accomplished through the user-friendly interface provided by Workbench. The unique constraint was primarily employed on primary keys and specific columns to prevent the duplication of values, while the null constraint was utilized to ensure that cells within our tables could not remain empty.
 
 ![](Constraints.JPG)
 - Data Normalization: To achieve data normalization, I initially employed Excel and subsequently imported the normalized data into Workbench through the import wizard. 
-- User Privileges and Constraints: The configuration of user privileges and constraints was handled through the MySQL interface rather than by writing custom code. New user priviledges were created for 2 employees Tucker Reilly a DBA who gets full database administrator priviledges and Ellabrody an Analyst.
+- User Privileges and Constraints: The configuration of user privileges and constraints was handled through the MYSQL user interface rather than by writing custom code. New user priviledges were created for 2 employees Tucker Reilly a DBA who gets full database administrator priviledges and Ellabrody an Analyst.
+
+  ![](Usersprivi.JPG)
+
+  __The End!!!__
