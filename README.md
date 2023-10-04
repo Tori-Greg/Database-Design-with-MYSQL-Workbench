@@ -1,4 +1,6 @@
 # Database-Design-with-MYSQL-Workbench
+
+![](Image1.jpg)
 ## Introduction
 A new client "the owner of SereniCasa" recently contacted me with a request to develop a comprehensive database from scratch. This database will be designed to encompass and manage data related to customers, purchase orders, and employees for their business.
 
