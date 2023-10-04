@@ -10,5 +10,7 @@ I have attached the [script](https://github.com/Tori-Greg/Database-Design-with-M
   ![](EERDiagram.JPG)
 
  - Constraints: To uphold data integrity and adhere to best practices, I implemented both null and unique constraints on specific columns within the dataset, and this was accomplished through the user-friendly interface provided by Workbench. The unique constraint was primarily employed on primary keys to prevent the duplication of values, while the null constraint was utilized to ensure that cells within our tables could not remain empty.
+
+![](Constraints.JPG)
 - Data Normalization: To achieve data normalization, I initially employed Excel and subsequently imported the normalized data into Workbench through the import wizard. 
 - User Privileges and Constraints: The configuration of user privileges and constraints was handled through the MySQL interface rather than by writing custom code.
