@@ -13,4 +13,4 @@ I have attached the [script](https://github.com/Tori-Greg/Database-Design-with-M
 
 ![](Constraints.JPG)
 - Data Normalization: To achieve data normalization, I initially employed Excel and subsequently imported the normalized data into Workbench through the import wizard. 
-- User Privileges and Constraints: The configuration of user privileges and constraints was handled through the MySQL interface rather than by writing custom code.
+- User Privileges and Constraints: The configuration of user privileges and constraints was handled through the MySQL interface rather than by writing custom code. New user priviledges were created for 2 employees Tucker Reilly a DBA who gets full database administrator priviledges and Ellabrody an Analyst.
